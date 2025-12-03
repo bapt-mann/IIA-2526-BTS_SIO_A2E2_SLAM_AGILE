@@ -88,9 +88,10 @@ Un format usuellement utilisé pour faire cette retrospective est : `Keep / Drop
 
 ### Le découpage des fonctionnalités (organisation)
 
+- `Theme` : C'est le regroupement d'Epics ou / et de User Stories.
 - `Epic` : C'est le nom qu'on donne à une grosse fonctionnalité. Souvent, elle est trop grosse pour être planifiée sur un seul sprint.
 - `User Story` : C'est une fonctionnalité, plus petite que la Epic, qui peut être développée sur un seul sprint. Une Epic peut être consituée de plusieurs user stories.
-- `Theme` : C'est le regroupement d'Epics ou / et de User Stories.
+
 
 ### Focus sur les User Stories
 
