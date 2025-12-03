@@ -22,5 +22,7 @@
 - Tous les champs doivent être filtrés
 
 - Peut modifier, supprimer sa propre recherche 
+- peut avoir plusieurs couleurs
 
-
+*Informations pour une chaussette* :
+taille, couleur, type, marque, commentaire, en couple/pas en couple
