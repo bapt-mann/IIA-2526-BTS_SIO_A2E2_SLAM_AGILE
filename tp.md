@@ -1,7 +1,8 @@
 # TP mise en pratique 
 
-Créer une application de gestion d’événements personnels :
-Les utilisateurs peuvent créer des événements (titre, date, description), les afficher dans un dashboard, filtrer par date, et marquer un événement comme “terminé”.
+Créer une application de gestion de chaussettes orphelines :
+
+Les utilisateurs peuvent créer une liste de chaussettes orphelines (taille, couleur, type), les afficher dans un dashboard, filtrer par date de renseignement, et marquer une chaussette comme “en couple”.
 
 La techno est libre : React, Laravel, Node, Java, Python…
 
@@ -84,6 +85,15 @@ Pour chaque Sprint :
 - Review (compte rendu)
 - Rétrospective
 
+
+‼️ **IMPORTANT** ‼️
+
+Chaque document doit être traçable avec la bonne date de réalisation sur GIT.
+Pour le Product Backlog, vérifiez bien qu'il soit accessible à tout le monde, même en navigation privée, sans connexion !
+
+Vous serez noté sur la réalisation de la documentation.
+
+Les livrables (liens etc...) sont à envoyer à ma boite mail (k.niel.pro@gmail.com) avant le dernier cours 17h.
 
 
 
