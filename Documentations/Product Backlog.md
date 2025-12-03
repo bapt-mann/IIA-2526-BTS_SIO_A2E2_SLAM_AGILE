@@ -38,3 +38,15 @@
 
 **User Story : Page couple**
     - Mettre en place une page pour les chaussettes en couple uniquement
+
+
+
+**Sprint 1 :**
+    Epic : Mise en place
+    Epic : CRUD Utilisateur
+
+**Sprint 2 :**
+    Epic : CRUD Chaussette
+
+**Sprint 3 :**
+    Epic : Tri et Filtre
