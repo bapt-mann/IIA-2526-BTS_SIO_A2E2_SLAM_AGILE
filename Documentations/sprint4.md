@@ -70,6 +70,73 @@
 
 ---
 
+# 📅 Daily Meeting
+
+---
+
+## Jour 1
+
+* Vigile : commence le responsive sur la liste
+* Mahmoud : propose les breakpoints
+* Problème : éléments qui débordent sur mobile
+* Mahmoud : suggère d’utiliser flex + media queries
+
+---
+
+## Jour 2
+
+* Vigile : adapte les formulaires
+* Mahmoud : aide à aligner les champs
+* Vigile : dit galérer avec le CSS responsive
+* Problème : champs mal alignés
+
+---
+
+## Jour 3
+
+* Vigile : ajoute les messages utilisateur
+* Mahmoud : aide pour les flash messages Symfony
+* Problème : messages non affichés
+* Mahmoud : corrige l’intégration Twig
+
+---
+
+## Jour 4
+
+* Vigile : commence le refactor
+* Mahmoud : propose de factoriser en services
+* Problème : bugs après refactor
+* Vigile : pas à l’aise avec la refacto
+
+---
+
+## Jour 5
+
+* Vigile : optimise les requêtes
+* Mahmoud : vérifie Doctrine
+* Problème : filtres cassés après modif
+* Mahmoud : aide à corriger les requêtes
+
+---
+
+## Jour 6
+
+* Vigile : lance les tests complets
+* Mahmoud : aide à corriger les derniers bugs
+* Les deux : valident la stabilité
+* Aucun blocage majeur
+
+---
+
+## Jour 7
+
+* Vigile : prépare la démo
+* Mahmoud : vérifie le projet global
+* Les deux : valident la version finale
+* Projet terminé
+
+---
+
 ## 📅 Daily Récap
 
 ---

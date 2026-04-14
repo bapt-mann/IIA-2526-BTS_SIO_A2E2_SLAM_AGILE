@@ -64,6 +64,73 @@
 * Vérifier cohérence avec "en couple"
 
 ---
+
+# 📅 Daily Meeting
+
+---
+
+## Jour 1
+
+* Vigile : commence la mise en place des filtres côté UI
+* Mahmoud : propose la structure du formulaire (GET)
+* Vigile : problème pour récupérer les paramètres
+* Mahmoud : explique comment utiliser `Request`
+
+---
+
+## Jour 2
+
+* Vigile : implémente les filtres dans le repository
+* Mahmoud : aide à construire les requêtes dynamiques
+* Les deux : testent les filtres combinés
+* Aucun blocage majeur
+
+---
+
+## Jour 3
+
+* Vigile : ajoute le tri
+* Mahmoud : conseille sur `ORDER BY`
+* Problème : le tri écrase les filtres
+* Vigile : dit ne pas être à l’aise avec les requêtes complexes
+
+---
+
+## Jour 4
+
+* Vigile : corrige la logique filtres + tri
+* Mahmoud : aide à refactoriser le repository
+* Les deux : valident le fonctionnement
+* Aucun blocage
+
+---
+
+## Jour 5
+
+* Vigile : ajoute le champ `isMatched`
+* Mahmoud : gère la migration
+* Problème : anciennes données incohérentes
+* Mahmoud : propose une valeur par défaut
+
+---
+
+## Jour 6
+
+* Vigile : développe pages "en couple" et "solitaires"
+* Mahmoud : aide sur les routes et vues Twig
+* Les deux : valident l’affichage
+* Aucun blocage majeur
+
+---
+
+## Jour 7
+
+* Vigile : fait les tests complets
+* Mahmoud : aide à corriger les derniers bugs
+* Les deux : valident toutes les features
+* Sprint terminé sans feature en review
+
+---
 # 📅 Daily Récap
 ---
 

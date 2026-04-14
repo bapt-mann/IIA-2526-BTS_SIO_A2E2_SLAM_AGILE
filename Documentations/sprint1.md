@@ -70,6 +70,73 @@
 
 ---
 
+# 📅 Daily Meeting
+
+---
+
+## Jour 1
+
+* Vigile : va installer Symfony et vérifier l’environnement PHP
+* Mahmoud : configure Composer et aide sur l’installation
+* Vigile : signale un problème de version PHP (trop ancienne)
+* Mahmoud : propose de faire une mise à jour de PHP
+
+---
+
+## Jour 2
+
+* Vigile : initialise le repo GitHub et fait le premier commit
+* Mahmoud : s’occupe du lien entre projet local et GitHub
+* Vigile : rencontre un problème d’authentification Git
+* Mahmoud : propose d’utiliser un token à la place du mot de passe
+
+---
+
+## Jour 3
+
+* Vigile : commence la config `.env` et la BDD
+* Mahmoud : vérifie la configuration MySQL
+* Vigile : indique qu’il n’est pas très à l’aise avec la config BDD
+* Problème remonté : mot de passe incorrect pour MySQL
+
+---
+
+## Jour 4
+
+* Vigile : crée la base de données
+* Mahmoud : aide à tester la connexion Symfony ↔ BDD
+* Problème : connexion partiellement fonctionnelle
+* Mahmoud : suggère de revoir `DATABASE_URL`
+
+---
+
+## Jour 5
+
+* Vigile : crée l’entité User
+* Mahmoud : gère les migrations
+* Problème : erreur Doctrine migration
+* Vigile : dit qu’il galère avec Doctrine
+
+---
+
+## Jour 6
+
+* Vigile : teste la connexion BDD
+* Mahmoud : aide à corriger les erreurs
+* Les deux : valident que la connexion fonctionne
+* Aucun blocage majeur
+
+---
+
+## Jour 7
+
+* Vigile : finalise le projet
+* Mahmoud : vérifie la propreté du code
+* Les deux : font une vérification globale
+* Sprint validé
+
+---
+
 # 📅 Daily Récap
 
 ---

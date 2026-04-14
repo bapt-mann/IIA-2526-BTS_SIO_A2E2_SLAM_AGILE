@@ -74,7 +74,76 @@
 - Filtrer les chaussettes par utilisateur connecté  
 - Adapter la requête repository (`findByUser`)  
 - Sécuriser l’accès (pas voir celles des autres)  
-- Tester avec plusieurs utilisateurs  
+- Tester avec plusieurs utilisateurs
+
+---
+
+# 📅 Daily Meeting
+
+---
+
+## Jour 1
+
+* Vigile : commence la création de l’entité `Chaussette`
+* Mahmoud : aide à définir les bons champs
+* Vigile : hésite sur le champ `statut` (bool vs string)
+* Mahmoud : propose un bool simple pour commencer
+
+---
+
+## Jour 2
+
+* Vigile : met en place la relation `User ↔ Chaussette`
+* Mahmoud : vérifie le mapping Doctrine
+* Problème : erreur de relation
+* Mahmoud : explique les annotations / attributs Doctrine
+* Vigile : indique ne pas être à l’aise avec Doctrine
+
+---
+
+## Jour 3
+
+* Vigile : développe le contrôleur et l’ajout
+* Mahmoud : aide sur les formulaires Symfony
+* Problème : données non sauvegardées
+* Mahmoud : rappelle l’utilisation de `persist()` et `flush()`
+
+---
+
+## Jour 4
+
+* Vigile : implémente la consultation (`index`)
+* Mahmoud : aide pour Twig
+* Les deux : valident l’affichage
+* Aucun blocage majeur
+
+---
+
+## Jour 5
+
+* Vigile : travaille sur la modification (`edit`)
+* Mahmoud : aide à debugger le formulaire
+* Problème : champ mal bindé
+* Vigile : dit galérer avec les forms Symfony
+
+---
+
+## Jour 6
+
+* Vigile : commence la suppression
+* Mahmoud : ajoute la sécurité CSRF
+* Les deux : commencent le filtrage par utilisateur
+* Problème : accès aux données non sécurisé
+* Mahmoud : insiste sur la sécurité
+
+---
+
+## Jour 7
+
+* Vigile : finalise suppression
+* Mahmoud : finalise filtrage utilisateur
+* Les deux : testent l’ensemble
+* 🔄 Features suppression + filtrage encore en review
 
 ---
 
