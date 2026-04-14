@@ -14,6 +14,8 @@
 
 ## 📦 Sprint Backlog
 
+---
+
 ### 📱 1. Responsive Design
 
 - Définir les breakpoints (mobile / tablette)
@@ -68,7 +70,9 @@
 
 ---
 
-## 📅 Daily Meeting
+## 📅 Daily Récap
+
+---
 
 ### 📆 Jour 1
 
@@ -76,11 +80,15 @@
 - Adaptation page liste
 - ❌ Problème : éléments qui débordent sur mobile
 
+---
+
 ### 📆 Jour 2
 
 - Responsive formulaires
 - Début amélioration UX
 - ❌ Problème : champs mal alignés
+
+---
 
 ### 📆 Jour 3
 
@@ -88,11 +96,15 @@
 - Amélioration de la navigation
 - ❌ Problème : messages non affichés correctement
 
+---
+
 ### 📆 Jour 4
 
 - Refactorisation du code
 - Nettoyage des controllers
 - ❌ Problème : erreurs après refactor
+
+---
 
 ### 📆 Jour 5
 
@@ -100,11 +112,15 @@
 - Correction des bugs
 - ❌ Problème : filtre non fonctionnel après modification
 
+---
+
 ### 📆 Jour 6
 
 - Tests complets de l’application
 - Correction des bugs restants
 - Stabilisation
+
+---
 
 ### 📆 Jour 7
 
@@ -115,6 +131,8 @@
 ---
 
 ## 🔁 Sprint Retrospective
+
+---
 
 ### 👍 Keep
 
@@ -140,6 +158,12 @@
 ---
 
 ## 🔍 Sprint Review
+
+---
+
+![alt text](sprint4.png)
+
+---
 
 ### 📌 À présenter
 
