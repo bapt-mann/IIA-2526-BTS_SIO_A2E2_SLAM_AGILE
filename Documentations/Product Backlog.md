@@ -178,6 +178,15 @@
 **En tant que** utilisateur  
 **Je veux** trier les chaussettes perdues  
 
+✅ DoR
+Champs triables définis (ex : date)
+Ordres définis (ASC/DESC)
+UI de sélection prévue
+✅ DoD
+Tri fonctionnel
+Ordre respecté
+Aucun bug sur affichage
+
 ---
 ---
 
