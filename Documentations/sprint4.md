@@ -30,7 +30,7 @@ Préparer une démonstration professionnelle
             - Ajout de micro-interactions :
                 - hover
                 - transition
-            Simplification des parcours utilisateurs :
+            - Simplification des parcours utilisateurs :
                 - Moins de clics
                 - actions plus visibles
             👉 Objectif : réduire la friction utilisateur
