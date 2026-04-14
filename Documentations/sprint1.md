@@ -70,7 +70,7 @@
 
 ---
 
-# 📅 Daily Meeting
+# 📅 Daily Récap
 
 ---
 
@@ -152,7 +152,7 @@
 # 🔍 Sprint Review
 
 ---
-![alt text](image.png)
+![alt text](sprint1.png)
 
 ---
 
